@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    flex-direction: column;
+    margin-left: 25px; 
+}
+
+.input{
+  width: 250px; 
+  height: 20px; 
+  margin-top: 20px;
+  margin-bottom: 25px;
+}
+
+.btn{
+  width: 250px; 
+  height: 30px; 
+  margin-bottom: 25px;
+  display: none;
+}
+
+.comments::placeholder{
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+   
+}
