@@ -18,10 +18,3 @@ body{
   display: none;
 }
 
-.comments::placeholder{
-    
-    display: flex;
-    align-items: center;
-    text-align: center;
-   
-}
